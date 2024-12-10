@@ -1,0 +1,12 @@
+.menuHead:focus{
+  background-color: skyblue;
+  color: black;
+}
+.menuHead:hover{
+  background-color: grey;
+}
+.logo{
+  position: absolute;
+  width: 20%;
+  top: -30%;
+}
